@@ -7,8 +7,8 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   explainers.pointwise.lime.utils
-   explainers.pointwise.lime.wrappers
+   ir_explain.explainers.pointwise.lime.utils
+   ir_explain.explainers.pointwise.lime.wrappers
 
 Submodules
 ----------
@@ -16,7 +16,7 @@ Submodules
 explainers.pointwise.lime.discretize module
 -------------------------------------------
 
-.. automodule:: explainers.pointwise.lime.discretize
+.. automodule:: ir_explain.explainers.pointwise.lime.discretize
    :members:
    :undoc-members:
    :show-inheritance:
@@ -24,7 +24,7 @@ explainers.pointwise.lime.discretize module
 explainers.pointwise.lime.exceptions module
 -------------------------------------------
 
-.. automodule:: explainers.pointwise.lime.exceptions
+.. automodule:: ir_explain.explainers.pointwise.lime.exceptions
    :members:
    :undoc-members:
    :show-inheritance:
@@ -32,7 +32,7 @@ explainers.pointwise.lime.exceptions module
 explainers.pointwise.lime.explanation module
 --------------------------------------------
 
-.. automodule:: explainers.pointwise.lime.explanation
+.. automodule:: ir_explain.explainers.pointwise.lime.explanation
    :members:
    :undoc-members:
    :show-inheritance:
@@ -40,7 +40,7 @@ explainers.pointwise.lime.explanation module
 explainers.pointwise.lime.lime\_base module
 -------------------------------------------
 
-.. automodule:: explainers.pointwise.lime.lime_base
+.. automodule:: ir_explain.explainers.pointwise.lime.lime_base
    :members:
    :undoc-members:
    :show-inheritance:
@@ -48,7 +48,7 @@ explainers.pointwise.lime.lime\_base module
 explainers.pointwise.lime.lime\_image module
 --------------------------------------------
 
-.. automodule:: explainers.pointwise.lime.lime_image
+.. automodule:: ir_explain.explainers.pointwise.lime.lime_image
    :members:
    :undoc-members:
    :show-inheritance:
@@ -56,7 +56,7 @@ explainers.pointwise.lime.lime\_image module
 explainers.pointwise.lime.lime\_ranker module
 ---------------------------------------------
 
-.. automodule:: explainers.pointwise.lime.lime_ranker
+.. automodule:: ir_explain.explainers.pointwise.lime.lime_ranker
    :members:
    :undoc-members:
    :show-inheritance:
@@ -64,7 +64,7 @@ explainers.pointwise.lime.lime\_ranker module
 explainers.pointwise.lime.lime\_tabular module
 ----------------------------------------------
 
-.. automodule:: explainers.pointwise.lime.lime_tabular
+.. automodule:: ir_explain.explainers.pointwise.lime.lime_tabular
    :members:
    :undoc-members:
    :show-inheritance:
@@ -72,7 +72,7 @@ explainers.pointwise.lime.lime\_tabular module
 explainers.pointwise.lime.lime\_text module
 -------------------------------------------
 
-.. automodule:: explainers.pointwise.lime.lime_text
+.. automodule:: ir_explain.explainers.pointwise.lime.lime_text
    :members:
    :undoc-members:
    :show-inheritance:
@@ -80,7 +80,7 @@ explainers.pointwise.lime.lime\_text module
 explainers.pointwise.lime.submodular\_pick module
 -------------------------------------------------
 
-.. automodule:: explainers.pointwise.lime.submodular_pick
+.. automodule:: ir_explain.explainers.pointwise.lime.submodular_pick
    :members:
    :undoc-members:
    :show-inheritance:
@@ -88,7 +88,7 @@ explainers.pointwise.lime.submodular\_pick module
 Module contents
 ---------------
 
-.. automodule:: explainers.pointwise.lime
+.. automodule:: ir_explain.explainers.pointwise.lime
    :members:
    :undoc-members:
    :show-inheritance:

@@ -17,7 +17,7 @@ Submodules
 explainers.base\_explainer module
 ---------------------------------
 
-.. automodule:: explainers.base_explainer
+.. automodule:: ir_explain.explainers.base_explainer
    :members:
    :undoc-members:
    :show-inheritance:
@@ -25,7 +25,7 @@ explainers.base\_explainer module
 Module contents
 ---------------
 
-.. automodule:: explainers
+.. automodule:: ir_explain.explainers
    :members:
    :undoc-members:
    :show-inheritance:

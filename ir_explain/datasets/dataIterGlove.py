@@ -3,8 +3,8 @@ from typing import Iterable, Tuple, Callable, List, ClassVar, Dict
 import torch
 from torch.nn.utils.rnn import pad_sequence
 from torchtext.vocab import Vocab
-from datasets.dataIterBase import PairwiseTrainDatasetBase, PointwiseTrainDatasetBase, ValTestDatasetBase
-import glove
+from ir_explain.datasets.dataIterBase import PairwiseTrainDatasetBase, PointwiseTrainDatasetBase, ValTestDatasetBase
+import ir_explain.datasets.glove
 
 
 Input = Tuple[torch.LongTensor, torch.IntTensor]

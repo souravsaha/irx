@@ -7,7 +7,7 @@ Submodules
 explainers.listwise.base\_listwise module
 -----------------------------------------
 
-.. automodule:: explainers.listwise.base_listwise
+.. automodule:: ir_explain.explainers.listwise.base_listwise
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ explainers.listwise.base\_listwise module
 explainers.listwise.bfs\_explainer module
 -----------------------------------------
 
-.. automodule:: explainers.listwise.bfs_explainer
+.. automodule:: ir_explain.explainers.listwise.bfs_explainer
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ explainers.listwise.bfs\_explainer module
 explainers.listwise.greedy\_explainer module
 --------------------------------------------
 
-.. automodule:: explainers.listwise.greedy_explainer
+.. automodule:: ir_explain.explainers.listwise.greedy_explainer
    :members:
    :undoc-members:
    :show-inheritance:
@@ -31,7 +31,7 @@ explainers.listwise.greedy\_explainer module
 explainers.listwise.intent\_exs\_explainer module
 -------------------------------------------------
 
-.. automodule:: explainers.listwise.intent_exs_explainer
+.. automodule:: ir_explain.explainers.listwise.intent_exs_explainer
    :members:
    :undoc-members:
    :show-inheritance:
@@ -39,7 +39,7 @@ explainers.listwise.intent\_exs\_explainer module
 explainers.listwise.multiplex\_base module
 ------------------------------------------
 
-.. automodule:: explainers.listwise.multiplex_base
+.. automodule:: ir_explain.explainers.listwise.multiplex_base
    :members:
    :undoc-members:
    :show-inheritance:
@@ -47,7 +47,7 @@ explainers.listwise.multiplex\_base module
 explainers.listwise.multiplex\_explainer module
 -----------------------------------------------
 
-.. automodule:: explainers.listwise.multiplex_explainer
+.. automodule:: ir_explain.explainers.listwise.multiplex_explainer
    :members:
    :undoc-members:
    :show-inheritance:
@@ -55,7 +55,7 @@ explainers.listwise.multiplex\_explainer module
 explainers.listwise.simple\_explainers module
 ---------------------------------------------
 
-.. automodule:: explainers.listwise.simple_explainers
+.. automodule:: ir_explain.explainers.listwise.simple_explainers
    :members:
    :undoc-members:
    :show-inheritance:
@@ -63,7 +63,7 @@ explainers.listwise.simple\_explainers module
 Module contents
 ---------------
 
-.. automodule:: explainers.listwise
+.. automodule:: ir_explain.explainers.listwise
    :members:
    :undoc-members:
    :show-inheritance:

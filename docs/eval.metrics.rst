@@ -7,7 +7,7 @@ Submodules
 eval.metrics.consistency module
 -------------------------------
 
-.. automodule:: eval.metrics.consistency
+.. automodule:: ir_explain.eval.metrics.consistency
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ eval.metrics.consistency module
 eval.metrics.correctness module
 -------------------------------
 
-.. automodule:: eval.metrics.correctness
+.. automodule:: ir_explain.eval.metrics.correctness
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ eval.metrics.correctness module
 Module contents
 ---------------
 
-.. automodule:: eval.metrics
+.. automodule:: ir_explain.eval.metrics
    :members:
    :undoc-members:
    :show-inheritance:

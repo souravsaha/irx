@@ -7,7 +7,7 @@ Submodules
 explainers.pointwise.lime.wrappers.scikit\_image module
 -------------------------------------------------------
 
-.. automodule:: explainers.pointwise.lime.wrappers.scikit_image
+.. automodule:: ir_explain.explainers.pointwise.lime.wrappers.scikit_image
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ explainers.pointwise.lime.wrappers.scikit\_image module
 Module contents
 ---------------
 
-.. automodule:: explainers.pointwise.lime.wrappers
+.. automodule:: ir_explain.explainers.pointwise.lime.wrappers
    :members:
    :undoc-members:
    :show-inheritance:

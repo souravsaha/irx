@@ -15,7 +15,7 @@ Submodules
 explainers.pointwise.base\_pointwise module
 -------------------------------------------
 
-.. automodule:: explainers.pointwise.base_pointwise
+.. automodule:: ir_explain.explainers.pointwise.base_pointwise
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ explainers.pointwise.base\_pointwise module
 explainers.pointwise.exs\_explainer module
 ------------------------------------------
 
-.. automodule:: explainers.pointwise.exs_explainer
+.. automodule:: ir_explain.explainers.pointwise.exs_explainer
    :members:
    :undoc-members:
    :show-inheritance:
@@ -31,7 +31,7 @@ explainers.pointwise.exs\_explainer module
 explainers.pointwise.lirme\_explainer module
 --------------------------------------------
 
-.. automodule:: explainers.pointwise.lirme_explainer
+.. automodule:: ir_explain.explainers.pointwise.lirme_explainer
    :members:
    :undoc-members:
    :show-inheritance:
@@ -39,7 +39,7 @@ explainers.pointwise.lirme\_explainer module
 Module contents
 ---------------
 
-.. automodule:: explainers.pointwise
+.. automodule:: ir_explain.explainers.pointwise
    :members:
    :undoc-members:
    :show-inheritance:

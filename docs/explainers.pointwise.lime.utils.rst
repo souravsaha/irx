@@ -7,7 +7,7 @@ Submodules
 explainers.pointwise.lime.utils.generic\_utils module
 -----------------------------------------------------
 
-.. automodule:: explainers.pointwise.lime.utils.generic_utils
+.. automodule:: ir_explain.explainers.pointwise.lime.utils.generic_utils
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ explainers.pointwise.lime.utils.generic\_utils module
 Module contents
 ---------------
 
-.. automodule:: explainers.pointwise.lime.utils
+.. automodule:: ir_explain.explainers.pointwise.lime.utils
    :members:
    :undoc-members:
    :show-inheritance:

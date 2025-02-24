@@ -7,7 +7,7 @@ Submodules
 explainers.pairwise.axioms module
 ---------------------------------
 
-.. automodule:: explainers.pairwise.axioms
+.. automodule:: ir_explain.explainers.pairwise.axioms
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ explainers.pairwise.axioms module
 explainers.pairwise.explain\_more module
 ----------------------------------------
 
-.. automodule:: explainers.pairwise.explain_more
+.. automodule:: ir_explain.explainers.pairwise.explain_more
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ explainers.pairwise.explain\_more module
 Module contents
 ---------------
 
-.. automodule:: explainers.pairwise
+.. automodule:: ir_explain.explainers.pairwise
    :members:
    :undoc-members:
    :show-inheritance:

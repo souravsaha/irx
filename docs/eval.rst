@@ -12,7 +12,7 @@ Subpackages
 Module contents
 ---------------
 
-.. automodule:: eval
+.. automodule:: ir_explain.eval
    :members:
    :undoc-members:
    :show-inheritance:
